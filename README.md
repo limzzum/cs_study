@@ -28,11 +28,18 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/limzzum"><img src="https://avatars.githubusercontent.com/limzzum" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/soojik"><img src="https://avatars.githubusercontent.com/soojik" width="130px;" alt=""></a></td>
+  <td align="center"><a href="https://github.com/SeungAh-Hong"><img src="https://avatars.githubusercontent.com/SeungAh-Hong" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/limzzum"><b>limzzum</b></a></td>
+    <td align="center"><a href="https://github.com/soojik"><b>soojik</b></a></td>
+    <td align="center"><a href="https://github.com/SeungAh-Hong"><b>SeungAh-Hong</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
   </tr> 
+
 </table>
