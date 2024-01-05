@@ -1,6 +1,6 @@
 ## try-finally보다는 try-with-resources를 사용하라
 
-```aidl
+```
 전통적으로 자원이 제대로 닫힘을 보장하는 수단으로 try-finally가 쓰였다.
 
 하지만
