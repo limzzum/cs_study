@@ -1,7 +1,7 @@
 # cs_study
 
 ## 진행 일정 📆
-2023-10-11 ~ 
+2023-12-30 ~ 
 
 ## 진행 방식 🎮
 - 프로젝트와 마일스톤으로 일정관리.
@@ -13,10 +13,14 @@
 ## 참여 방법 🥇
 1. 깃허브 저장소 fork 하기.
 2. 내 깃허브 아이디 이름으로 폴더 생성 & 리드미 파일 추가.
-3. 매주 정해진 주제에 대하여 본인이 정리할 내용 선택 후 이슈 생성.
-4. 주제에 해당하는 폴더에 새로운 폴더 만들어서 정리한 내용 공유.
-5. 내 이름 폴더 안에 내가 작성한 내용 리스트에 추가
-6. 커밋 컨벤션에 맞춰 커밋 & 템플릿 적용하여 pr 요청.
+3. 매주 정해진 주제에 대하여 본인이 정리할 내용 선택 후 이슈 생성 & 브랜치 생성.
+5. 주제에 해당하는 폴더에 새로운 폴더 만들어서 정리한 내용 공유.
+6. 내 이름 폴더 안에 내가 작성한 내용 리스트에 추가
+7. 커밋 컨벤션에 맞춰 커밋 & 템플릿 적용하여 pr 요청.
+
+## 브랜치 네이밍
+- feature-[이슈번호]-[주제]
+- ex) feature-1-자바
 
 ## 깃모지
 - 새로운 내용 추가 : ✨ sparkles
@@ -29,17 +33,14 @@
  <tr>
     <td align="center"><a href="https://github.com/limzzum"><img src="https://avatars.githubusercontent.com/limzzum" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/soojik"><img src="https://avatars.githubusercontent.com/soojik" width="130px;" alt=""></a></td>
-  <td align="center"><a href="https://github.com/SeungAh-Hong"><img src="https://avatars.githubusercontent.com/SeungAh-Hong" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/limzzum"><b>limzzum</b></a></td>
     <td align="center"><a href="https://github.com/soojik"><b>soojik</b></a></td>
-    <td align="center"><a href="https://github.com/SeungAh-Hong"><b>SeungAh-Hong</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 
 </table>
